@@ -53,53 +53,6 @@ input {
 }
 
 
-/*form {
-    max-width: 400px;
-    margin: auto;
-}
-
-.form-row {
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-
-    margin-bottom: 10px;
-    gap: 10px;
-}
-
-.form-row:has(input[required]) label:after {
-    content: "*";
-    color: red;
-}
-
-.message {
-    color: red;
-    font-size: 16px;
-    min-height: 20px;
-}
-
-input {
-    padding: 5px 10px;
-    outline: none;
-}
-
-.form-row.error input {
-    border: 3px solid red;
-}
-
-.weak {
-    border: 3px solid red;
-}
-
-.normal {
-    border: 3px solid yellow;
-}
-
-.strong {
-    border: 3px solid green;
-}*/
-
-
 /*2*/
 .modal {
     display: none;
@@ -137,13 +90,3 @@ input {
     right: 10px;
     top: 10px;
 }
-
-
-
-
-
-
-
-
-
-
